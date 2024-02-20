@@ -1,0 +1,13 @@
+@import "../reset.scss";
+
+$bg: #f0f0f0;
+$accent: #c7c2cc;
+$borderWidth: 2px;
+
+body {
+  display: grid;
+  background-color: red;
+  div {
+    background-color: $bg;
+  }
+}
